@@ -1,1 +1,5 @@
 just a note for you
+
+note在我之前的项目中一直以来比较重要，记录了项目的发展，但是即使记录的比较详细了，还是会出现问题。
+
+怎么使用github，即官网的hello_world教程为：https://guides.github.com/activities/hello-world/
